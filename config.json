@@ -1,3 +1,15 @@
 {
-  "url": "https://example.com"
+  "url": "https://example.com",
+  "blocked_domains": [
+    "slot88.com", "slot777.com", "slot168.com", "slot99.com",
+    "poker88.com", "poker757.com", "dominoqq.com", "dominobet.com",
+    "togel.com", "togel4d.com", "togelonline.com", "bola88.com",
+    "bandarjudi.com", "judionline.com", "casinonline.com", "bolajudi.com",
+    "dewapoker.com", "rajajudi.com", "masterpoker88.com", "idnpoker.com",
+    "idnplay.com", "idn88.com", "vivoslot.com", "pragmaticplay.com",
+    "pornhub.com", "xvideos.com", "xnxx.com", "xhamster.com",
+    "redtube.com", "youporn.com", "livejasmin.com", "chaturbate.com",
+    "brazzers.com", "bangbros.com", "realitykings.com", "naughtyamerica.com",
+    "tube8.com", "xtube.com", "spankbang.com", "tnaflix.com"
+  ]
 }
